@@ -41,7 +41,6 @@ export default function TablePage() {
     }
   }, [dispatch, data]);
 
-  // Filter + sort
   const filteredData = useMemo(() => {
     let filtered = data.filter((row) =>
       columns.some(

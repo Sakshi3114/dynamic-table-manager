@@ -1,4 +1,3 @@
-// components/RowActions.js
 'use client';
 
 import { Box, IconButton, Tooltip } from '@mui/material';

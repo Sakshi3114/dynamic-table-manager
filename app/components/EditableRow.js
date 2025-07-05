@@ -1,4 +1,3 @@
-// components/EditableRow.js
 'use client';
 
 import { TableRow, TableCell, TextField } from '@mui/material';

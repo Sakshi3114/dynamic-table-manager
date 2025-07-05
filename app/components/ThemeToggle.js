@@ -1,4 +1,3 @@
-// app/components/ThemeToggle.js
 'use client';
 
 import { useDispatch, useSelector } from 'react-redux';

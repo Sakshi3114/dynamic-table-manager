@@ -1,4 +1,3 @@
-// app/components/ThemeRegistry.js
 'use client';
 
 import { useSelector } from 'react-redux';
